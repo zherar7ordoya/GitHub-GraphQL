@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Tordoya <zherar7ordoya@outlook.com> (https://zherar7ordoya.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.22.2",
+    "axios": "^0.21.1",
+    "graphql": "^15.5.0"
+  }
+}
